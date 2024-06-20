@@ -1,4 +1,5 @@
 # Site settings
+# https://le4ker.github.io/personal-jekyll-theme/tech/2015/06/25/initial-setup.html
 
 # NB! Set your site's url, otherwise nothing will work
 url: "https://adlihs.github.io" #"https://le4ker.github.io/personal-jekyll-theme"
@@ -13,7 +14,7 @@ lang: "en"
 author: "Data Vader"
 title: "{ Data Vader }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "soccer, data, football, python, R, data visualization"
 favicon: "/img/favicon.ico"
 ################
 # Header layout #
@@ -108,7 +109,7 @@ pgp: False
 author_blurb:
   "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional
   engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/data_vader.png"
 ##################
 # Social Buttons #
 ##################
