@@ -32,8 +32,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "The power of data."
+  - text: "Here we help you find a solution to your data problems. Will it be the best? Will it be the fastest? We don't know, but what we do know is that it will be a solution..."
 me-img: "/img/data_vader.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -97,7 +97,7 @@ syntax-highlight: True
 ###########
 # Contact #
 ###########
-email: "your@email.here"
+email: "data.vader.info@gmail.com"
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
 pgp: False
 ################
@@ -122,8 +122,8 @@ social:
     url: "https://www.linkedin.com"
   - icon: "x-twitter"
     url: "https://twitter.com/"
-  - icon: "rss"
-    url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
+  #- icon: "rss"
+  #  url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
 ############
 # 404 page #
 ############
@@ -136,7 +136,7 @@ err-404-img: "/img/labtocat.png"
 pages_list:
   About: "about"
   Blog: "latest-post"
-  Timeline: "timeline"
+  #Timeline: "timeline"
   Contact: "contact"
 # Exclusion list from the generated _site
 exclude:
