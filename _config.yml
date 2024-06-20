@@ -2,8 +2,8 @@
 # https://le4ker.github.io/personal-jekyll-theme/tech/2015/06/25/initial-setup.html
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://adlihs.github.io" #"https://le4ker.github.io/personal-jekyll-theme"
-repository_name: "/data-vader.github.io"
+url: "https://adlihs.github.io/data-vader.github.io" #"https://le4ker.github.io/personal-jekyll-theme"
+
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
 
@@ -109,7 +109,7 @@ pgp: False
 author_blurb:
   "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional
   engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/data_vader.png"
+author_blurb_image: "/img/author.png"
 ##################
 # Social Buttons #
 ##################
