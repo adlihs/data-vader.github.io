@@ -1,8 +1,8 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://adlihs.github.io/data-vader.github.io/" #"https://le4ker.github.io/personal-jekyll-theme"
-
+url: "https://adlihs.github.io" #"https://le4ker.github.io/personal-jekyll-theme"
+repository_name: "/data-vader.github.io"
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
 
